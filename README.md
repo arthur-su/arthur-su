@@ -20,7 +20,7 @@ This past year, I've built extensible developer tooling for Serverless and API r
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-- 🔭 I’m currently working on [Nimbus](https://github.com/oslabs-beta/nimbus)
-- 🌱 I’m currently learning TypeScript
-- 💬 Ask me about "component first" and "utility first" approaches to styling
+- I’m currently working on [Nimbus](https://github.com/oslabs-beta/nimbus)
+- I’m currently learning TypeScript
+- Ask me about "component first" and "utility first" approaches to styling
 
