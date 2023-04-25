@@ -1,6 +1,6 @@
 # Hi 👋 I'm Arthur. 
 
-This past year, I've built extensible developer tooling for Serverless and API response structures, designed beautiful React frontends and databases to help track and realize people's fitness goals and was invited to speak about the [state of CSS libraries](https://www.youtube.com/watch?v=d6jGT5SKE_A) at a speaker series sponsored by Codesmith, Jeeny and Bractlet. I absolutely love the development process, enjoy sharing my knowledge with others and really like pair programming. Outside of work, you can find me at the gym, exploring new restaurants, or soaking up the latest art exhibit.
+This past year, I've built extensible developer tooling for Serverless and API response structures, designed functional React frontends and databases to help track and realize people's fitness goals and was invited to speak about the [state of CSS libraries](https://www.youtube.com/watch?v=d6jGT5SKE_A) at a speaker series sponsored by Codesmith, Jeeny and Bractlet. I absolutely love the development process, enjoy sharing my knowledge with others and really like pair programming. Outside of work, you can find me at the gym, exploring new restaurants, or soaking up the latest art exhibit.
 
 <h3>Where to Find Me</h3>
 
