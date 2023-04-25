@@ -7,8 +7,7 @@ This past year, I've built extensible developer tooling for Serverless and API r
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthursu/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthur.su.dev@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-Follow-%2312100E?style=for-the-badge&logo=medium)](https://medium.com/@arthursu22)
-[![Twitter Follow](https://img.shields.io/twitter/follow/arthursusays?color=%231DA1F2&label=Follow%20%40arthursusays&logo=twitter&style=for-the-badge)](https://twitter.com/arthursusays)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCu87_EnXZSxjF4Svpz0mnOw?color=%23FF0000&label=Subscribe%20to%20my%20channel&logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UCu87_EnXZSxjF4Svpz0mnOw)
+
 
 
 <h3>Technology</h3>
